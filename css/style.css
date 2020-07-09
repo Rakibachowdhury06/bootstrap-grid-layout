@@ -1,0 +1,168 @@
+h3{
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+
+h4{
+	text-align: center;
+}
+.box-1{
+	min-height: 60px;
+	background-color:crimson;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-2{
+	min-height: 60px;
+	background-color:coral;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-3{
+	min-height: 60px;
+	background-color:darkcyan;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-4{
+	min-height: 60px;
+	background-color:slateblue;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-5{
+	min-height: 60px;
+	background-color:greenyellow;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-6{
+	min-height: 60px;
+	background-color:darkseagreen;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-7{
+	min-height: 60px;
+	background-color:hotpink;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-8{
+	min-height: 60px;
+	background-color:lightgreen;
+	color:white;
+	margin-bottom: 10px;
+}
+
+.box-9{
+	min-height: 60px;
+	background-color:peru;
+	color:white;
+}
+
+.box-10{
+	min-height: 60px;
+	background-color:rosybrown;
+	color:white;
+}
+
+.align-items-start{
+	background-color: grey;
+	min-height: 200px;
+	margin-bottom:10px;
+}
+
+.align-items-center{
+	background-color: grey;
+	min-height: 200px;
+	margin-bottom:10px;
+}
+
+.align-items-end{
+	background-color: grey;
+	min-height: 200px;
+	margin-bottom:10px;
+}
+
+.box-alignment{
+	background-color: tan;
+	min-height: 200px;
+}
+.align-self-start{
+	align-self:flex-start!important;
+}
+
+.align-self-center{
+	align-self:flex-center!important;
+}
+
+.align-self-end{
+	align-self:flex-end!important;
+}
+
+.justify-content-start{
+	background-color: pink;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+
+.justify-content-center{
+	background-color: pink;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+
+.justify-content-end{
+	background-color: pink;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+
+.justify-content-around{
+	background-color: pink;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+
+.justify-content-between{
+	background-color: pink;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+
+.column-wrap{
+	background-color: tan;
+	min-height: 300px;
+	margin-bottom: 10px;
+}
+
+.order-class{
+	background-color:thistle;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+
+.c-offset{
+	background-color:sandybrown;
+	min-height: 300px;
+	margin-bottom: 10px;
+}
+
+.c-margin{
+	background-color:navajowhite;
+	min-height: 200px;
+}
+
+.c-nesting{
+	background-color:goldenrod;
+	min-height: 200px;
+}
